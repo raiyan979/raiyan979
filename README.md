@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raiyan.mirza1233@gmail.com**
 
-- 📄 Know about my experiences [Raiyan Mirza | Technical Designer & Software Engineer https://share.google/SuCHQ6myHLon0iS9J](Raiyan Mirza | Technical Designer & Software Engineer https://raiyan979.github.io/my-resume-/)
+- 📄 Know about my experiences [Raiyan Mirza | Technical Designer & Software Engineer](Raiyan Mirza | Technical Designer & Software Engineer https://raiyan979.github.io/my-resume-/)
 
 - ⚡ Fun fact **I have a black in taekwondo and speak 7 languages**
 
